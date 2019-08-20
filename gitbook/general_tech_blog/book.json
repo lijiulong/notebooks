@@ -1,0 +1,11 @@
+{
+    "title": "General Technical Blog of Frank Li",
+    "description": "Frank Li的通用技术博客，本博客不直接发布于互联网上，主要使用gitbook编写，储存并公开于github之上，以便随时查阅。",
+    "author": "Frank Li",
+    "language": "zh-hans",
+    "pdf": {
+        "fontSize": 15,
+        "pageNumbers": true,
+        "paperSize": "b5"
+    }
+}
