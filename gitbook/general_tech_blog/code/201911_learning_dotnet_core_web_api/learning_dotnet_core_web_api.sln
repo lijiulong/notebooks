@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learning_dotnet_core_web_api", "learning_dotnet_core_web_api\learning_dotnet_core_web_api.csproj", "{C7B7E182-4CDB-4153-8504-3F01D8442182}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "model", "model\model.csproj", "{FCC35743-EF18-49AA-A347-963DABD65294}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7B7E182-4CDB-4153-8504-3F01D8442182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B7E182-4CDB-4153-8504-3F01D8442182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B7E182-4CDB-4153-8504-3F01D8442182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B7E182-4CDB-4153-8504-3F01D8442182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC35743-EF18-49AA-A347-963DABD65294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC35743-EF18-49AA-A347-963DABD65294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC35743-EF18-49AA-A347-963DABD65294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC35743-EF18-49AA-A347-963DABD65294}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E0DA51B-312E-41B7-99E0-1BA76A34BE92}
+	EndGlobalSection
+EndGlobal
